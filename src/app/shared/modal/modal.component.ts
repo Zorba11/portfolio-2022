@@ -12,7 +12,6 @@ export class ModalComponent implements OnInit {
 
   constructor(public modal: ModalService, public el: ElementRef) {
 
-
    }
 
   ngOnInit(): void {
